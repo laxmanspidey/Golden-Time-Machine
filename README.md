@@ -1,6 +1,6 @@
 # Golden Time Machine: Predicting Gold Prices with ARIMA, LSTM, and Prophet Models
 
-[Streamlit Cloud Deployment Link - Click here for Demo of Golden Time Machine](https://golden-time-machine.streamlit.app/)
+[Streamlit Cloud Deployment Link - Click here for Demo of Golden Time Machine](https://golden-time-machine-tool.streamlit.app/)
 
 ## Overview
 
