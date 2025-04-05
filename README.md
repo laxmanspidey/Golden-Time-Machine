@@ -63,9 +63,6 @@ The system provides a detailed analysis of gold prices, including:
 - **Enhance Model Accuracy**: Incorporate additional features and improve model performance.
 - **User Authentication**: Add user accounts to save preferences and history.
 
-## Contact
-
-For any inquiries, please reach out to [s.shivnaran@gmail.com](s.shivnaran@gmail.com).
 
 ---
 
